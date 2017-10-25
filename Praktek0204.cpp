@@ -27,5 +27,9 @@ cout<<"Biaya pasang(Rp):"<<l<<'\n';
 
 n=l+k;
 cout<<"Total biaya(Rp):"<<n<<'\n';
+
+cout<<"________________________________";
+cout<<"\n";
+cout<<"M.Nanang Saputra";
 }
  
