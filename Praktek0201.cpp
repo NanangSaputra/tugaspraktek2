@@ -7,6 +7,5 @@ int main(){
     int nilai1;
     
     cout<<nilai;
-    nilai1=nilai+1;
-	cout<<nilai1;
+    cout<<nilai1;
 }
