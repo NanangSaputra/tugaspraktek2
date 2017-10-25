@@ -21,5 +21,9 @@ j=500;
 k=i*j;
 cout<<"Biaya parket(Rp):"<<k<<'\n';
 
+m=20;
+l=luas*m;
+cout<<"Biaya pasang(Rp):"<<l<<'\n';
+
 }
  
